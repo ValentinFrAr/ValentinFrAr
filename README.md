@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **projects with React**
 
-- 👨‍💻 All of my projects are available at [(https://portfolio-valentin-robert.vercel.app/))]([https://valentin-robert.netlify.app/](https://portfolio-valentin-robert.vercel.app/))
+- 👨‍💻 All of my projects are available at((https://portfolio-valentin-robert.vercel.app/))
 
 - 💬 Ask me about **react**
 
